@@ -1,5 +1,7 @@
 **Type:** Final class project for IBM's Statistics for Data Science with Python class on Coursera.
 
+**View the rendered code [here](https://nbviewer.org/github/tiffanychow/Project_Boston_Real_Estate/blob/main/2024_Boston_Real_Estate.html).** 🔗 
+
 **Skills:** Data cleaning, data analysis, and data visualization.
 
 **Programming language:** Python.
