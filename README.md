@@ -6,7 +6,7 @@
 
 **Programming language:** Python.
 
-**Tools:** NumPy, pandas, Matplotlib, Seaborn, and Plotly Express in Jupyter Notebook.
+**Tools:** NumPy, pandas, SciPy, statsmodels, Matplotlib, Seaborn, and Plotly Express in Jupyter Notebook.
 
 **Background:** This case study examines a dataset of housing information and prices for Boston, Massachusetts as derived from the United States Census Service. The dataset includes variables such as property values and ages of owner-occupied homes, property locations, distributions of property types, distances to employment centers, and air quality.
 
@@ -17,7 +17,7 @@
 - Is there a relationship between nitric oxide concentrations and the proportion of non-retail business acres per town?
 - What is the impact of an additional weighted distance to the five Boston employment centres on the median value of owner-occupied homes?
 
-**Methods:** the dataset was cleaned, followed by preparation of appropriate visualizations and statistical tests (including a regression, correlation, t-test, and ANOVA with post hoc comparisons) to better understand the relationship between various characteristics of houses and their respective prices.
+**Methods:** The dataset was cleaned, followed by preparation of appropriate visualizations and statistical tests (including a regression, correlation, t-test, and ANOVA with post hoc comparisons) to better understand the relationship between various characteristics of houses and their respective prices.
 
 **Results:**
 - The house values in this dataset had a large range ($5,000.00 to $50,000.00), with an average valuation of $22,532.81.
