@@ -2,11 +2,15 @@
 
 **View the rendered code [here](https://nbviewer.org/github/tiffanychow/Project_Boston_Real_Estate/blob/main/2024_Boston_Real_Estate.html).** 🔗 
 
+---
+
 **Skills:** Data cleaning, data analysis, and data visualization.
 
 **Programming language:** Python.
 
 **Tools:** NumPy, pandas, SciPy, statsmodels, Matplotlib, Seaborn, and Plotly Express in Jupyter Notebook.
+
+---
 
 **Background:** This case study examines a dataset of housing information and prices for Boston, Massachusetts as derived from the United States Census Service. The dataset includes variables such as property values and ages of owner-occupied homes, property locations, distributions of property types, distances to employment centers, and air quality.
 
