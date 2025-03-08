@@ -23,9 +23,9 @@
 
 **Methods:** The dataset was cleaned, followed by preparation of appropriate visualizations and statistical tests (including a regression, correlation, t-test, and ANOVA with post hoc comparisons) to better understand the relationship between various characteristics of houses and their respective prices.
 
-**Results:**
+**Results:** Analyses provided insights into the Boston community and its real estate, including features impacting its housing prices and environment.
 - The house values in this dataset had a large range ($5,000.00 to $50,000.00), with an average valuation of $22,532.81.
 - However, the location of the house impacted its value. There were fewer houses that bounded the Charles River, but they were significantly more expensive than houses located farther away from the river.
 - The age of a house also significantly impacted its price as older houses tended to be less valuable.
 - Air quality was worse in areas with more non-retail business activity: there was a significant positive correlation between nitric oxide concentrations and the proportion of non-retail business acres per town, such that more business acres was associated with greater nitric oxide concentrations.
-- The distance from housing to employment areas was also a consideration for price. There was a significant positive relationship between distance to the Boston employment centers and housing values where greater distances was related to higher house prices.
+- The distance from housing to employment areas was also a consideration for price. There was a significant positive relationship between distance to the Boston employment centers and housing values where greater distances were related to higher house prices.
